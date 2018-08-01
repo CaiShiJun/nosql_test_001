@@ -1,0 +1,5 @@
+http://localhost:8080/spymemcached?method=java
+http://localhost:8080/xmemcached?method=java
+http://localhost:8080/TestXMemcachedClientServlet?method=java
+http://localhost:8080/mongodb
+http://localhost:8080/redis
